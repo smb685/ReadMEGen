@@ -21,12 +21,6 @@ Installation instructions: Downloaded from Course with given code. Install Inqui
 ## Usage:
 Usage instructions: Start Terminal. Enter "index.js". Follow promts. ReadMe.md will be generated.
 
-## Contributing:
-Want to contriubte? Here's the guidelines: None
-
-## Tests:
-Current test instructions: None
-
 ## License:
 This application is covered under the MIT license. 
 
