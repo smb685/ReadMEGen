@@ -10,8 +10,6 @@ This project was created with node.js. I used the node and JavaScript to create 
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [Tests](#tests)
 - [License](#license)
 - [Questions](#questions)
 
