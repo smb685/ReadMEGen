@@ -17,7 +17,7 @@ This project was created with node.js. I used the node and JavaScript to create 
 Installation instructions: Downloaded from Course with given code. Install Inquired for code to work.
 
 ## Usage:
-Usage instructions: Start Terminal. Enter "node index.js". Follow promts. ReadMe.md will be generated.
+Usage instructions: Start Terminal. Install "npm i inquirer". Enter "node index.js". Follow promts. ReadMe.md will be generated.
 
 ## License:
 This application is covered under the MIT license. 
