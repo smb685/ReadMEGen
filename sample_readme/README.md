@@ -1,10 +1,10 @@
 
-# Title: test 
+# Title: budgetmakeranytime-evenoffline 
 ![badge](https://img.shields.io/badge/license-MIT-darkred)
 
 ## Description:
 
-testing project to use generator
+This project was made so that a person can use their budget app on and offline!
 
 ## Table of Contents
 - [Description](#description)
@@ -16,10 +16,10 @@ testing project to use generator
 - [Questions](#questions)
 
 ## Installation Instructions:
-Installation instructions: npm init npm i inquier
+Installation instructions: use npm install for the dependencies and the starter code given.
 
 ## Usage:
-Usage instructions: to generate a readme
+Usage instructions: 
 
 ## Contributing:
 Want to contriubte? Here's the guidelines: none
@@ -31,7 +31,7 @@ Current test instructions: none
 This application is covered under the MIT license. 
 
 ## My Github Account:
-  Click here: https://github.com/tester
+  Click here: https://github.com/smb685
 
   ## Questions:
-  Feel free to email me at: tester@gmail.com
+  Feel free to email me at: sylvester.brandon25@gmail.com
