@@ -1,10 +1,10 @@
 
-# Title: budgetmakeranytime-evenoffline 
+# Title: react-attack-portfoliostyle 
 ![badge](https://img.shields.io/badge/license-MIT-darkred)
 
 ## Description:
 
-This project was made so that a person can use their budget app on and offline!
+For this challenge, we had to create a portfolio using React!
 
 ## Table of Contents
 - [Description](#description)
@@ -16,10 +16,10 @@ This project was made so that a person can use their budget app on and offline!
 - [Questions](#questions)
 
 ## Installation Instructions:
-Installation instructions: use npm install for the dependencies and the starter code given.
+Installation instructions: For my portfolio I used a few different techniques. I used tailwind, react and Netify. Netify is where the portfolio is depoyed, and the live link will be provided below.
 
 ## Usage:
-Usage instructions: 
+Usage instructions: This was used to create a React Portfolio!
 
 ## Contributing:
 Want to contriubte? Here's the guidelines: none
