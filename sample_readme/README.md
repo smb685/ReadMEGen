@@ -1,10 +1,10 @@
 
-# Title: react-attack-portfoliostyle 
+# Title: test 
 ![badge](https://img.shields.io/badge/license-MIT-darkred)
 
 ## Description:
 
-For this challenge, we had to create a portfolio using React!
+testing readme generator
 
 ## Table of Contents
 - [Description](#description)
@@ -16,22 +16,22 @@ For this challenge, we had to create a portfolio using React!
 - [Questions](#questions)
 
 ## Installation Instructions:
-Installation instructions: For my portfolio I used a few different techniques. I used tailwind, react and Netify. Netify is where the portfolio is depoyed, and the live link will be provided below.
+Installation instructions: npm i
 
 ## Usage:
-Usage instructions: This was used to create a React Portfolio!
+Usage instructions: testing
 
 ## Contributing:
-Want to contriubte? Here's the guidelines: none
+Want to contriubte? Here's the guidelines: test
 
 ## Tests:
-Current test instructions: none
+Current test instructions: test
 
 ## License:
 This application is covered under the MIT license. 
 
 ## My Github Account:
-  Click here: https://github.com/smb685
+  Click here: https://github.com/test@test
 
   ## Questions:
-  Feel free to email me at: sylvester.brandon25@gmail.com
+  Feel free to email me at: test@test
